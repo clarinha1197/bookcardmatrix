@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SLN_card.props" />
+</Project>
